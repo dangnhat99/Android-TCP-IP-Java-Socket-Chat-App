@@ -1,0 +1,13 @@
+<resources>
+    <string name="title_activity_message_list">MessageListActivity</string>
+    <string name="color_title">Pick a Color</string>
+
+    <string name="app_name">Chat Socket</string>
+    <string name="please_enter_username_nthis_will_be_your_unique_id">Please Enter Username\nThis will be your Unique ID</string>
+    <string name="name_hint">User name</string>
+    <string name="continue_text">Continue</string>
+    <string name="you_don_t_have_any_friends_yet_nconnect_with_friends_to_start_chatting">You Don\'t Have any Friends Yet\nConnect with friends to start chatting</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connect_to_friend">CONNECT TO FRIEND</string>
+    <string name="welcome">WELCOME</string>
+</resources>
